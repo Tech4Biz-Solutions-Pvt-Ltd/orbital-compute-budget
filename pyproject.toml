@@ -5,12 +5,31 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "orbital-compute-budget"
 version = "0.1.0"
-description = "Effective compute budget for a data center in low Earth orbit, after eclipse and battery limits."
+description = "Effective compute budget for a data center in low Earth orbit, after eclipse and battery limits. By Tech4Biz Solutions."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-keywords = ["space", "data-center", "orbital", "compute", "eclipse", "leo", "satellite"]
+authors = [
+    { name = "Tech4Biz Solutions", email = "hello@tech4biz.io" },
+]
+maintainers = [
+    { name = "Tech4Biz Solutions", email = "hello@tech4biz.io" },
+]
+keywords = [
+    "tech4biz",
+    "space",
+    "data-center",
+    "orbital-compute",
+    "orbital-data-center",
+    "eclipse",
+    "beta-angle",
+    "leo",
+    "satellite",
+    "spacecraft-power",
+]
 classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Topic :: Scientific/Engineering :: Astronomy",
@@ -20,6 +39,11 @@ dependencies = []
 
 [project.optional-dependencies]
 test = ["pytest"]
+
+[project.urls]
+Homepage = "https://www.tech4biz.io"
+Repository = "https://github.com/tech4biz/orbital-compute-budget"
+Issues = "https://github.com/tech4biz/orbital-compute-budget/issues"
 
 [project.scripts]
 ocb = "orbital_compute_budget.cli:main"

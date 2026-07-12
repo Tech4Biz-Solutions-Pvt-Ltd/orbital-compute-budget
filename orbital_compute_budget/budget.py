@@ -1,3 +1,7 @@
+# orbital-compute-budget
+# Copyright (c) 2026 Tech4Biz Solutions. Licensed under the MIT License.
+# Project: https://github.com/tech4biz/orbital-compute-budget
+# Maintained by Tech4Biz Solutions (https://www.tech4biz.io)
 """
 Energy balance and effective-compute budget for an orbital compute node.
 
