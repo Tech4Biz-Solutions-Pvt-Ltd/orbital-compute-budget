@@ -39,6 +39,7 @@ dependencies = []
 
 [project.optional-dependencies]
 test = ["pytest"]
+figures = ["matplotlib", "numpy"]
 
 [project.urls]
 Homepage = "https://tech4biz.io"
