@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "orbital-compute-budget"
+version = "0.1.0"
+description = "Effective compute budget for a data center in low Earth orbit, after eclipse and battery limits."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["space", "data-center", "orbital", "compute", "eclipse", "leo", "satellite"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Astronomy",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+ocb = "orbital_compute_budget.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["orbital_compute_budget*"]
