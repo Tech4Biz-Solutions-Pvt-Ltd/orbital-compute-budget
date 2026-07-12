@@ -10,10 +10,10 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-    { name = "Tech4Biz Solutions", email = "hello@tech4biz.io" },
+    { name = "Tech4Biz Solutions", email = "contact@tech4biz.io" },
 ]
 maintainers = [
-    { name = "Tech4Biz Solutions", email = "hello@tech4biz.io" },
+    { name = "Tech4Biz Solutions", email = "contact@tech4biz.io" },
 ]
 keywords = [
     "tech4biz",
@@ -41,9 +41,9 @@ dependencies = []
 test = ["pytest"]
 
 [project.urls]
-Homepage = "https://www.tech4biz.io"
-Repository = "https://github.com/tech4biz/orbital-compute-budget"
-Issues = "https://github.com/tech4biz/orbital-compute-budget/issues"
+Homepage = "https://tech4biz.io"
+Repository = "https://github.com/Tech4Biz-Solutions-Pvt-Ltd/orbital-compute-budget"
+Issues = "https://github.com/Tech4Biz-Solutions-Pvt-Ltd/orbital-compute-budget/issues"
 
 [project.scripts]
 ocb = "orbital_compute_budget.cli:main"

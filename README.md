@@ -1,6 +1,6 @@
 # orbital-compute-budget
 
-**By [Tech4Biz Solutions](https://www.tech4biz.io)**
+**By [Tech4Biz Solutions](https://tech4biz.io)**
 
 Estimate the effective compute you actually get from a data center in low Earth orbit, after eclipse periods and battery limits.
 
@@ -19,7 +19,7 @@ You give it an orbit (altitude, inclination) and a power system (compute load, s
 ## Install
 
 ```bash
-git clone https://github.com/<you>/orbital-compute-budget.git
+git clone https://github.com/Tech4Biz-Solutions-Pvt-Ltd/orbital-compute-budget.git
 cd orbital-compute-budget
 pip install -e .
 ```
@@ -94,4 +94,6 @@ MIT. Copyright (c) 2026 Tech4Biz Solutions.
 
 ## About
 
-Built and maintained by [Tech4Biz Solutions](https://www.tech4biz.io), a hardware-to-cloud engineering firm. This tool is part of our open-source work on space and orbital compute infrastructure.
+Built and maintained by [Tech4Biz Solutions](https://tech4biz.io), a hardware-to-cloud engineering firm. This tool is part of our open-source work on space and orbital compute infrastructure.
+
+Web: [tech4biz.io](https://tech4biz.io) / [tech4bizsolutions.com](https://tech4bizsolutions.com) · Contact: contact@tech4biz.io
