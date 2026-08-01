@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "orbital-compute-budget"
+abstract: "Effective compute budget for a data centre in low Earth orbit, after eclipse and battery limits."
+authors:
+  - family-names: Khandelwal
+    given-names: Yasha
+    orcid: "https://orcid.org/0009-0005-2166-4951"
+    affiliation: "Tech4Biz Solutions"
+license: MIT
+repository-code: "https://github.com/Tech4Biz-Solutions-Pvt-Ltd/orbital-compute-budget"
+version: 0.1.0
+date-released: 2026-08-01
