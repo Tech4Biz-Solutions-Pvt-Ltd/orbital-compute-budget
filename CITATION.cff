@@ -8,6 +8,11 @@ authors:
     orcid: "https://orcid.org/0009-0005-2166-4951"
     affiliation: "Tech4Biz Solutions"
 license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21743062
+    description: Concept DOI for all versions
+doi: 10.5281/zenodo.21743062
 repository-code: "https://github.com/Tech4Biz-Solutions-Pvt-Ltd/orbital-compute-budget"
 version: 0.1.0
 date-released: 2026-08-01
