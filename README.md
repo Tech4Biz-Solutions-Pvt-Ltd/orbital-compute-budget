@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21743062.svg)](https://doi.org/10.5281/zenodo.21743062)
 # orbital-compute-budget
 
 ### How much compute do you actually get from a data center in orbit?
