@@ -243,11 +243,11 @@ Anywhere the economics of orbital or high-altitude compute has to be defended wi
 
 ## References
 
-- Beta angle and LEO sunlit fraction: Wikipedia, "Beta angle."
-- Eclipse-time computation for LEO small satellites: R. M. S., *International Journal of Aviation, Aeronautics, and Aerospace*, 6(5), 2019.
-- Power-generation fraction and cylindrical-shadow geometry: arXiv:2406.08342.
-- Orbital mechanics fundamentals: Vallado, *Fundamentals of Astrodynamics and Applications*.
-- Small-satellite thermal / eclipse parameterization: NASA SSRI, "Preliminary Thermal Analysis of Small Satellites."
+- Vallado, D. A. *Fundamentals of Astrodynamics and Applications*, 4th ed. Microcosm Press, 2013.
+- Sumanth R M. Computation of Eclipse Time for Low-Earth Orbiting Small Satellites. *International Journal of Aviation, Aeronautics, and Aerospace*, 6(5), Art. 15, 2019. doi:10.15394/ijaaa.2019.1412
+- Cunningham, F. G. *Calculation of the Eclipse Factor for Elliptical Satellite Orbits*. NASA, 1962.
+- Shambaugh, W. S. Doing Battle with the Sun: Lessons From LEO. 4S Symposium, 2024. arXiv:2406.08342
+- NASA Small Spacecraft Systems Virtual Institute. Preliminary Thermal Analysis of Small Satellites.
 
 ---
 
