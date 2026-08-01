@@ -239,17 +239,7 @@ Anywhere the economics of orbital or high-altitude compute has to be defended wi
 
 ---
 
-## Work with us on space compute
 
-Tech4Biz Solutions builds hardware-to-cloud systems, including power, thermal, and compute infrastructure for space and edge environments. If you are working on an orbital data center, a constellation power budget, a thermal or radiation design, or any related space-compute problem and want a custom model, a deeper simulation, or engineering support, we would like to hear from you.
-
-**We take on custom work in this exact domain: orbital energy budgets, thermal and radiator sizing, duty-cycle and workload-placement modeling, and full feasibility studies.**
-
-### Contact: [contact@tech4biz.io](mailto:contact@tech4biz.io)
-
-Web: [tech4biz.io](https://tech4biz.io) · [tech4bizsolutions.com](https://tech4bizsolutions.com)
-
----
 
 ## References
 
